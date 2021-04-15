@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/victorsvoronin/AZ-400-Space%20Game/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/victorsvoronin/AZ-400-Space%20Game/_build/latest?definitionId=13&branchName=master)
 
 # Contributing
 
